@@ -6,9 +6,9 @@
 
 [ReadMe.md](ReadMe.md)
 
-![Local Image](image.jpeg)
+![Local Image](image.jpeg?raw=true)
 
-![Web Image](https://github.com/Azatos-s/English/blob/master/image.jpeg)
+![Web Image](https://github.com/Azatos-s/English/blob/master/image.jpeg?raw=true)
 
 ```python
 # utf-8
