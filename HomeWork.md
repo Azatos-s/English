@@ -1,10 +1,14 @@
-[ReadMe.md](ReadMe.md)
-
-![Image](image.jpeg)
-
 ## H2 header
 
 #### H4 header
+
+[External Link](https://github.com/Azatos-s/English)
+
+[ReadMe.md](ReadMe.md)
+
+![Local Image](image.jpeg)
+
+![Web Image](https://github.com/Azatos-s/English/blob/master/image.jpeg)
 
 ```python
 # utf-8
@@ -12,6 +16,8 @@ import os
 def func(x:int)
 	print(x, "abc")
 ```
+
+> 引用
 
 - 无序列表
 
@@ -24,4 +30,8 @@ def func(x:int)
 **Bold**
 
 *Italic*
+
+~~strikethrough text~~
+
+---
 
