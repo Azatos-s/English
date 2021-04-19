@@ -1,3 +1,3 @@
 [HomeWork.md](HomeWork.md)
 
->  作业所要求的内容在[HomeWork.md](HomeWork.md)中。
+>  The content required for the job is in [HomeWork.md](HomeWork.md).
