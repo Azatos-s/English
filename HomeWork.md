@@ -17,11 +17,11 @@ def func(x:int)
 	print(x, "abc")
 ```
 
-> 引用
+> Quote
 
-- 无序列表
+- bulleted list.
 
-1. 有序列表
+1. numbered list.
 
 | Table   |      |
 | ------- | ---- |
